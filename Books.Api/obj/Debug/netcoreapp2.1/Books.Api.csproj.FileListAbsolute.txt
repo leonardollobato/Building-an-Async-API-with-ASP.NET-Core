@@ -1,0 +1,17 @@
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Api.deps.json
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Api.runtimeconfig.json
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Api.runtimeconfig.dev.json
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Api.dll
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Api.pdb
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.csprojAssemblyReference.cache
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.csproj.CoreCompileInputs.cache
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.RazorAssemblyInfo.cache
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.RazorAssemblyInfo.cs
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.AssemblyInfoInputs.cache
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.AssemblyInfo.cs
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.RazorTargetAssemblyInfo.cache
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.dll
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.pdb
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Legacy.dll
+/Users/leonardo/Study/Core/Books/Books.Api/bin/Debug/netcoreapp2.1/Books.Legacy.pdb
+/Users/leonardo/Study/Core/Books/Books.Api/obj/Debug/netcoreapp2.1/Books.Api.csproj.CopyComplete

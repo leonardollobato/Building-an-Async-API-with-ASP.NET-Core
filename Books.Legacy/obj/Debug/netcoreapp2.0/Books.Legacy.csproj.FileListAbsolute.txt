@@ -1,0 +1,9 @@
+/Users/leonardo/Study/Core/Books/Books.Legacy/bin/Debug/netcoreapp2.0/Books.Legacy.deps.json
+/Users/leonardo/Study/Core/Books/Books.Legacy/bin/Debug/netcoreapp2.0/Books.Legacy.dll
+/Users/leonardo/Study/Core/Books/Books.Legacy/bin/Debug/netcoreapp2.0/Books.Legacy.pdb
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.csprojAssemblyReference.cache
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.csproj.CoreCompileInputs.cache
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.AssemblyInfoInputs.cache
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.AssemblyInfo.cs
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.dll
+/Users/leonardo/Study/Core/Books/Books.Legacy/obj/Debug/netcoreapp2.0/Books.Legacy.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8736B9BA-46A1-42C1-802C-5E5EB2D50656}|Default">
+  <MonoDevelop.Ide.ItemProperties.Books.Api PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Books.Api/Entities/Author.cs">
+    <Files>
+      <File FileName="Books.Api/Entities/Author.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
